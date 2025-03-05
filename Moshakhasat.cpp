@@ -72,6 +72,6 @@ int main() {
 
     double averageAge = static_cast<double>(totalAge) / numPeople;
 
-    cout << "\nThe average age of the entered people is: " << averageAge << endl;
+    cout << "\nThe average age of the entered people is:  " << averageAge << endl;
     return 0;
 }
